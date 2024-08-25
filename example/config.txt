@@ -1,0 +1,2 @@
+Prefix plugins/CausalGraph/example/
+Plugin CausalGraph inputfile parameters.txt outputfile causal
